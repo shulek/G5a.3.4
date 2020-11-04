@@ -1,7 +1,7 @@
 ---
 title: 5a.3.4 Git auf der Konsole
 author: Sebastian Hulek
-date: today
+date: 04/11/2020
 ---
 
 # 5a.3.4 Git auf der Konsole
